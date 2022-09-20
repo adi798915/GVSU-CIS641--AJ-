@@ -2,9 +2,7 @@
   
   ## Team Members: 
   * Arushi S
-  * Jeremy W
-  * Adi J
-  * Prudhvinath C
+  
   
   
 
